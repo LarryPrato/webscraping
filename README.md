@@ -1,2 +1,2 @@
 # webscraping
-Web saraping for site: https://transparencia.registrocivil.org.br
+Web saraping with selenium for site: https://transparencia.registrocivil.org.br
